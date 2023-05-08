@@ -4,6 +4,8 @@
 }
 
 html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
   font-family: "Montserrat", sans-serif;
   background-image: url(./img/pastry-bg.jpg);
   background-size: cover;
